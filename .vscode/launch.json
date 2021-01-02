@@ -5,6 +5,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "CodeLens (Launch) - test",
+      "request": "launch",
+      "mainClass": "Project1.test",
+      "projectName": "theia_de065f40"
+    },
+    {
       "type": "node",
       "request": "attach",
       "name": "Attach by Process ID",
